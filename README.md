@@ -1,5 +1,5 @@
 Chat Application
-============
+===============
 
 eXo Chat is an Instant Messaging application for eXo Platform 4.
 Thanks to [Weemo](http://www.weemo.com) and their powerful cloud solution, it’s even possible to benefit from Video Conferencing (One to One, Conference) and Screen Sharing from within eXo Chat.
